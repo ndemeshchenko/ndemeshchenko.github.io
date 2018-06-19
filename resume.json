@@ -1,0 +1,198 @@
+{
+  "basics": {
+    "name": "Mykyta Demeshchenko",
+    "label": "",
+    "picture": "",
+    "email": "neveragny@gmail.com",
+    "phone": "+31615191344",
+    "website": "ndemeshchenko.github.io",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Amsterdam",
+      "countryCode": "Netherlands",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "company": "Textkernel",
+      "position": "SRE",
+      "website": "https://textkernel.nl",
+      "startDate": "2016-11-01",
+      "endDate": "2018-06-31",
+      "summary": "Implementing and managing Kubernetes cluster, transition of applications to Kubernetes. Design and maintain infrastructure around k8s like Nexus HA registry, monitoring, etc.",
+      "highlights": [
+        "Python/Go/shell, Puppet/SaltStack/Ansible, Docker, Fluentd, ElasticSearch, httpd/HAProxy, PostgreSQL/Cassandra, Grafana/Graphite, Proxmox, Ceph, Kubernetes"
+      ]
+    },
+    {
+      "company": "Playtech",
+      "position": "Devops Engineer",
+      "website": "https://playtech.com",
+      "startDate": "2015-10-01",
+      "endDate": "2016-10-31",
+      "summary": "Design, implement, and maintain continuous build and deployment delivery mechanisms. Moving large standalone application to scalable in-house cloud infrastructure on Cloudfoundry. ",
+      "highlights": [
+        "Cloudfoundry, Docker, Go/Ruby/Shell, Kafka/Pig/Yarn/Hive/Ambari stack."
+      ]
+    },
+    {
+      "company": "Elementum",
+      "position": "Devops Engineer",
+      "website": "https://elementum.com",
+      "startDate": "2012-08-01",
+      "endDate": "2015-09-30",
+      "summary": "Leading the design and implementation of build, release and deployment of application. Manage, troubleshoot and monitor environments, across project technology stack and environment hierarchy(Dev, QA, UAT). Environment mostly java applications, mongodb, rabbitMq, docker.",
+      "highlights": [
+        "Managing AWS infrastructure ( EC2, VPC, ElasticBeansTalk, etc). Server configurations management via Chef.",
+        "Dockerising existing infrastructure. - Configuring monitoring process using Nagios and VictorOps app. + Migrated to Sensu stack, RabbitMQ, Graphite, Grafana",
+        "AWS, Chef, MongoDB, Docker, Sensu, RabbitMQ, Graphite, Grafana"
+      ]
+    },
+    {
+      "company": "Barclays PLC",
+      "position": "Lead Support Engineer",
+      "website": "https://barclays.com",
+      "startDate": "2010-10-01",
+      "endDate": "2012-07-31",
+      "summary": "",
+      "highlights": [
+        "Conduct detailed technical investigation of Incidents escalated by L1 team within the expected completion timelines/ SLA's. Also support the application batches, perform health checks at predefined time, along with following the escalation process for any of the incidents. It requires detailed level of troubleshooting issues escalated by L1 team, providing workarounds, suggesting permanent fixes to outstanding issues and working closely with the global development teams..",
+        "  ",
+        "Java, Oracle, MSSQL"
+      ]
+    },
+    {
+      "company": "Global Logic",
+      "position": "Java Developer",
+      "website": "https://www.globallogic.com/",
+      "startDate": "2009-11-01",
+      "endDate": "2010-09-30",
+      "summary": "Developing web application for mobile operators to connects the originating network and terminating networks and handles the routing, messaging protocol conversion, and reformatting necessary to complete the delivery between networks.",
+      "highlights": [
+        "Java (J2EE, J2SE), jAbsorb, ExtJs, javascript, jUnit, Ant, Eclipse, Bamboo, ClearCase, Tomcat."
+      ]
+    },
+    {
+      "company": "Deutsche Bank’",
+      "position": "Release Engineer",
+      "website": "https://db.com",
+      "startDate": "2008-06-01",
+      "endDate": "2009-10-31",
+      "summary": "Perform and manage software builds and releases to Development, QA, Staging, and Production environments. Manage source code version control(Perforce). Create build and deploy scripts. Author internal documentation, such as build procedures and installation / configuration notes Create and maintain continuous build process. Deploy database updates to Oracle DB. Create and run build reports on a needed and workload basis, help support engineering in taking on support responsibilities. Manage Tibco JMS(EMS) server,application servers(WebLogic), Oracle 10g at Solaris OS.",
+      "highlights": [
+        "Java, Tomcat, TibcoEMS, Perforce, Oracle, Solaris"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "National University of Food Technologies",
+      "area": "Energy management",
+      "studyType": "Bachelor",
+      "startDate": "2005-09-01",
+      "endDate": "2011-07-01",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Operational Systems",
+      "level": "",
+      "keywords": [
+        "Centos",
+        "Debian",
+        "Ubuntu"
+      ]
+    },
+    {
+      "name": "Programming languages",
+      "level": "",
+      "keywords": [
+        "Go lang",
+        "Ruby",
+        "Shell",
+        "Java",
+        "Python"
+      ]
+    },
+    {
+      "name": "Configuration Management",
+      "level": "",
+      "keywords": [
+        "Ansible",
+        "Chef",
+        "Puppet",
+        "Salt"
+      ]
+    },
+    {
+      "name": "CI/CD tooling",
+      "level": "",
+      "keywords": [
+        "Jenkins",
+        "Bamboo",
+        "Gitlab CI",
+        "Concourse",
+        "Helm"
+      ]
+    },
+    {
+      "name": "Containers and tooling",
+      "level": "",
+      "keywords": [
+        "Docker",
+        "Kubernetes",
+        "Rancher"
+      ]
+    },
+    {
+      "name": "Monitoring",
+      "level": "",
+      "keywords": [
+        "Zabbix",
+        "Prometheus",
+        "Grafana",
+        "Nagios"
+      ]
+    },
+    {
+      "name": "Virtualisation",
+      "level": "",
+      "keywords": [
+        "KVM",
+        "Proxmox",
+        "Vsphere"
+      ]
+    },
+    {
+      "name": "Cloud Providers",
+      "level": "",
+      "keywords": [
+        "AWS",
+        "GCE",
+        "Hetzner Cloud"
+      ]
+    },
+    {
+      "name": "Markup and query languages",
+      "level": "",
+      "keywords": [
+        "SQL",
+        "HTML/XML",
+        "JSON/YAML",
+        "CSS, SCSS"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": []
+}
