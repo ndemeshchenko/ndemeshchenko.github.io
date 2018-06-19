@@ -22,7 +22,7 @@
       "position": "SRE",
       "website": "https://textkernel.nl",
       "startDate": "2016-11-01",
-      "endDate": "2018-06-31",
+      "endDate": "Current",
       "summary": "Implementing and managing Kubernetes cluster, transition of applications to Kubernetes. Design and maintain infrastructure around k8s like Nexus HA registry, monitoring, etc.",
       "highlights": [
         "Python/Go/shell, Puppet/SaltStack/Ansible, Docker, Fluentd, ElasticSearch, httpd/HAProxy, PostgreSQL/Cassandra, Grafana/Graphite, Proxmox, Ceph, Kubernetes"
